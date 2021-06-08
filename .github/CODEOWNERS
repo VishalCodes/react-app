@@ -1,4 +1,4 @@
-* @vishal  //owner for all the files
-*.js @vishal //owner for .js files
+* @vishalgr  //owner for all the files
+*.js @vishalgr//owner for .js files
 *.yml @alpha //owner for .yml files
 /public/ @alpha   //we can have a owner for a folder as well
